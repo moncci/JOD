@@ -1,0 +1,22 @@
+﻿-------------odt-------------------
+Configurations2[dir]
+	accelerator[dir]
+	floater[dir]
+	images[dir]
+		Bitmaps[dir]
+	menubar[dir]
+	popupmenu[dir]
+	progressbar[dir]
+	statusbar[dir]
+	toolbar[dir]
+	toolpanel[dir]
+META-INF[dir]
+	manifest.xml
+Thumbnails[dir]
+	thumbnail.png
+content.xml
+manifest.rdf
+meta.xml
+mimetype
+settings.xml
+styles.xml
